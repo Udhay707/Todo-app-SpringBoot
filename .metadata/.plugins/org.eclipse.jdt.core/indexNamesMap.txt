@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+file:/F:/Desktop/TL_Full_Stack/FullStack/backend%20-%20Copy/todo-app-fullstack/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
+meta_index
