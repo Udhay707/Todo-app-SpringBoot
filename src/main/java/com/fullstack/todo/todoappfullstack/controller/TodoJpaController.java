@@ -21,7 +21,7 @@ import com.fullstack.todo.todoappfullstack.todoResource.TodoRepo;
 import com.fullstack.todo.todoappfullstack.todoResource.TodoService;
 
 @RestController
-@CrossOrigin(origins="http://localhost:4200")
+@CrossOrigin(origins="https://todo-app-udhay707.netlify.app")
 public class TodoJpaController {
 
 	@Autowired

@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.fullstack.todo.todoappfullstack.HelloWorldBean;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://todo-app-udhay707.netlify.app")
 public class HomeController {
 
 	@GetMapping(value="/test")
