@@ -25,7 +25,7 @@ import com.fullstack.todo.todoappfullstack.jwt.JwtTokenUtil;
 import com.fullstack.todo.todoappfullstack.jwt.JwtUserDetails;
 
 @RestController
-@CrossOrigin(origins="http://localhost:4200")
+@CrossOrigin(origins="https://todo-app-udhay707.netlify.app")
 public class JwtAuthenticationRestController {
 
   @Value("${jwt.http.request.header}")
